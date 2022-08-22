@@ -6,4 +6,8 @@ In XXI century, in the times of COVID-19 global pandemic and frequent lockdowns,
 ### The lockdown is off, and you can finally meet!
 How to make a good impression and secure your second date? Should you even try to do that? Maybe being sincere is the best strategy? What traits of yours will bring you success / failure?
 
+### To answer above questions, building an ETL pipeline is useful to make the data ready for the analysis.
+Two unrelated datasets from Kaggle will be used: “Speed dating” and “Dating apps reviews”. 
+Also, Dating Advice website will be scrapped for “Dating sites with most users”.
+
 
