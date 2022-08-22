@@ -24,6 +24,7 @@ Transform:
 Load:
 * Data was loaded into the Mongo Database
 * MongoDB was chosen as the data is not related, so there is no reason to use relational database such as e.g., PostgreSQL.
+<img src="https://github.com/rita-s/love-finder-/blob/master/images/2022-08-21.png" alt="Database Upload Photo" title="Database Upload Photo" width="50%">
 
 ## 📚 References:
 1. 24 Dating Sites With the Most Users: https://www.datingadvice.com/online-dating/dating-sites-with-the-most-users
