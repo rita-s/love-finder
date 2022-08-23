@@ -12,7 +12,7 @@ How to make a good impression and secure your second date? Should you even try t
 
 ### To answer above questions, building an ETL pipeline is useful to make the data ready for the analysis.
 
-## 💼 ETL Report
+## 💼 ETL Report - Please see the full report <a href="https://github.com/rita-s/love-finder-/blob/master/ETL%20REPORT.pdf" target="_blank">here</a>
 Extract - Original Data Sources:
 * Two unrelated datasets from Kaggle were used: “Speed dating” and “Dating apps reviews” - both datasets were in CSV form
 * Dating Advice website was scrapped for “Dating sites with most users” - website converted into html template for the ease of use
